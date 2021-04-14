@@ -1,0 +1,84 @@
+{
+  "pets": [
+    {
+      "nome": "Gabigol",
+      "idade": 2,
+      "raca": "Pitbull",
+      "tipo": "Cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "Tosa",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "Corte de unhas",
+          "data": "31-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Arrascaeta",
+      "idade": 5,
+      "raca": "Vira-lata",
+      "tipo": "Cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "06-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "BH",
+      "idade": 1,
+      "raca": "Bem-te-vi",
+      "tipo": "Passarinho",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": []
+    },
+    {
+      "nome": "Gabigol",
+      "idade": 2,
+      "raca": "Pitbull",
+      "tipo": "Cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rodrigo Caio",
+      "idade": 2,
+      "raca": "Pitbull",
+      "tipo": "Cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Filipe Luiz",
+      "idade": 2,
+      "raca": "Pitbull",
+      "tipo": "Cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    }
+  ]
+}
