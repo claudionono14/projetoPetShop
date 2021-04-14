@@ -5,7 +5,7 @@ const nomeArquivo = 'pets.json'; //Guardando o caminho para o arquivo pets.json
 
 
 //Nome do Petshop
-const petshop = "PETSHOP DO NONÔ";
+const petshop = "PETSHOP CLAUDIO CARVALHO";
 
 let petsJSON = fs.readFileSync(nomeArquivo); //lê o conteúdo do arquivo pets.json e joga na variável petsJSON
 let arquivoPets = JSON.parse(petsJSON); // converte para o formato JS
